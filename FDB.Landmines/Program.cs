@@ -18,6 +18,20 @@ namespace FDB.Landmines
 
         private static void Main()
         {
+            // Goals of this project:
+            // - Create an 8x8 square playing surface
+            // - Create a player start position of Bottom Left square
+            // - Create and position a random number of landmines, between 1 and 63
+            // - Landmines can only be placed 1 per square, so collection checking is required
+            // - The player must be able to move using the following keystokes U = Up, D = Down, L = Left, R = Right
+            // - The player wins if they can get to the top row without hitting more than 2 landmines
+            // - The player loses if 2 landmines are hit
+            // - Each move must be displayed on the board 
+            // - Use TDD
+            // - Use SOLID principles
+            // - The software will be extensible
+            
+
 
             Game(null);
         }
