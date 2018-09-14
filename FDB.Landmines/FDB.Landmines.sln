@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FDB.Landmines", "FDB.Landmines.csproj", "{6A89DE78-4323-4DB0-926D-B751725C2867}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FDB.Landmines.Tests", "..\FDB.Landmines.Tests\FDB.Landmines.Tests.csproj", "{8264CDC5-0D6B-42DA-9821-27D5F19C94AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A89DE78-4323-4DB0-926D-B751725C2867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A89DE78-4323-4DB0-926D-B751725C2867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A89DE78-4323-4DB0-926D-B751725C2867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A89DE78-4323-4DB0-926D-B751725C2867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8264CDC5-0D6B-42DA-9821-27D5F19C94AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8264CDC5-0D6B-42DA-9821-27D5F19C94AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8264CDC5-0D6B-42DA-9821-27D5F19C94AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8264CDC5-0D6B-42DA-9821-27D5F19C94AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

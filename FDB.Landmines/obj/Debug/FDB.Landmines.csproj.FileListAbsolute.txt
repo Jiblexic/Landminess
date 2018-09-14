@@ -1,0 +1,6 @@
+C:\Users\regand\Desktop\FDB\FDB.Landmines\bin\Debug\FDB.Landmines.exe.config
+C:\Users\regand\Desktop\FDB\FDB.Landmines\obj\Debug\FDB.Landmines.csprojResolveAssemblyReference.cache
+C:\Users\regand\Desktop\FDB\FDB.Landmines\bin\Debug\FDB.Landmines.exe
+C:\Users\regand\Desktop\FDB\FDB.Landmines\bin\Debug\FDB.Landmines.pdb
+C:\Users\regand\Desktop\FDB\FDB.Landmines\obj\Debug\FDB.Landmines.exe
+C:\Users\regand\Desktop\FDB\FDB.Landmines\obj\Debug\FDB.Landmines.pdb
